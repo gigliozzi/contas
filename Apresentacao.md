@@ -1,4 +1,4 @@
-###  Contas do Congresso
+###  💳 Contas do Congresso
 
 #### Membros
 - [ ] Alberto
@@ -11,7 +11,7 @@
 - [ ] Notebook
 - [ ] Impressora
 - [ ] Papel A4
-- [ ] Transformador ⚡
+- [ ] Transformador (220V to 110V) ⚡
 - [ ] Carbono
 - [ ] Régua
 - [ ] Elástico
