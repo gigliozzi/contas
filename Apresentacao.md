@@ -1,13 +1,13 @@
 ###  💳 Contas do Congresso
 
-#### Membros
+#### ✋ Voluntários
 - [ ] Alberto
 - [ ] Alex
 - [ ] Anderson
 - [ ] Leandro
 - [ ] Thiago
 
-#### Itens necessários
+#### 📌 Itens necessários
 - [ ] Notebook
 - [ ] Impressora
 - [ ] Papel A4
@@ -21,7 +21,13 @@
 
 ¹ O Bradesco não está aceitando depósito direto no caixa e também não aceita moedas
 
-#### Formulários
+#### 📃 Formulários
 - [ ] CO-40
 - [ ] S-331
 - [ ] S-332
+
+#### 🕐 Escala
+
+|Horário|Duplas|
+|-|-|
+|12:20 às 13:20| William/Dógenes|
