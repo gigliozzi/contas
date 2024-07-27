@@ -1,14 +1,13 @@
 ###  💳 Contas do Congresso
 
 #### ✋ Voluntários
-- [ ] Alberto
-- [ ] Alex
-- [ ] Anderson
-- [ ] Leandro
-- [ ] Thiago
+- [ ] Alex Pereira
+- [ ] Eduardo Eugênio
+- [ ] William Gigliozzi
+- [ ] Wellington Nascimento
 
 #### 📌 Itens necessários
-- [ ] Notebook
+- [x] Notebook
 - [ ] Impressora
 - [ ] Papel A4
 - [ ] Transformador (220V to 110V) ⚡
