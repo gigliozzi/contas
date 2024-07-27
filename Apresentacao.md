@@ -1,22 +1,22 @@
 ###  💳 Contas do Congresso
 
 #### ✋ Voluntários
-- [ ] Alex Pereira
-- [ ] Eduardo Eugênio
-- [ ] William Gigliozzi
-- [ ] Wellington Nascimento
+- [x] Alex Pereira
+- [x] Eduardo Eugênio
+- [x] William Gigliozzi
+- [x] Wellington Nascimento
 
 #### 📌 Itens necessários
 - [x] Notebook
 - [ ] Impressora
 - [ ] Papel A4
 - [ ] Transformador (220V to 110V) ⚡
-- [ ] Carbono
-- [ ] Régua
-- [ ] Elástico
+- [x] Carbono
+- [x] Régua
+- [x] Elástico
 - [ ] Sacos de coleta
 - [ ] Sacos de moeda
-- [ ] Envelopes depósito ¹
+- [x] Envelopes depósito ¹
 
 ¹ O Bradesco não está aceitando depósito direto no caixa e também não aceita moedas
 
@@ -25,8 +25,12 @@
 - [ ] S-331
 - [ ] S-332
 
-#### 🕐 Escala
+#### 🕐 Escala dos Recolhimentos
 
 |Horário|Duplas|
 |-|-|
-|12:20 às 13:20| William/Dógenes|
+|12:20 às 13:20| Fulano/Ciclano|
+|12:20 às 13:20| Fulano/Ciclano|
+|12:20 às 13:20| Fulano/Ciclano|
+|12:20 às 13:20| Fulano/Ciclano|
+
